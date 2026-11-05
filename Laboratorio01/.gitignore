@@ -1,0 +1,7 @@
+# Chaves privadas nunca vão para o repositório
+*.key
+*_privada.pem
+private*.pem
+
+.venv/
+__pycache__/
